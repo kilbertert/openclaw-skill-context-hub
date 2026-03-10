@@ -1,0 +1,21 @@
+{
+  "name": "openclaw-skill-context-hub",
+  "version": "1.0.0",
+  "description": "Context Hub integration for OpenClaw - 让 AI 编程时使用最新 API 文档",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Run tests\" && npx @aisuite/chub search openai"
+  },
+  "keywords": [
+    "openclaw",
+    "skill",
+    "context-hub",
+    "api-documentation",
+    "ai-coding"
+  ],
+  "author": "OpenClaw Community",
+  "license": "MIT",
+  "dependencies": {
+    "@aisuite/chub": "^0.1.1"
+  }
+}

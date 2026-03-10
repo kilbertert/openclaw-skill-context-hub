@@ -117,8 +117,3 @@ openclaw-skill-context-hub/
 ## 许可证
 
 MIT License - 欢迎贡献！
-
----
-
-**维护者**: OpenClaw Community  
-**版本**: 1.0.0
